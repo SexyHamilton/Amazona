@@ -90,6 +90,79 @@
     3. create action column
 
 14. Complete Cart Screen
+
     1. click handler for inc/dec item
     2. click handler for remove item
     3. click handler for checkout
+
+15. Create Signin Screen
+
+    1. create signin form
+    2. add email and password
+    3. add signin button
+
+16. Connect To MongoDB Database
+
+    1. create atlas mongodb database
+    2. install local mongodb database
+    3. npm install mongoose
+    4. connect to mongodb database
+
+17. Seed Sample Data
+
+    1. create product model
+    2. create user model
+    3. create seed route
+    4. use route in server.js
+    5. seed sample product
+
+18. Complete Signin Screen
+
+    1. handle submit action
+    2. save token in store and local storage
+    3. show user name in header
+
+19. Create Shipping Screen
+
+    1. create form inputs
+    2. handle save shipping address
+    3. add checkout wizard bar
+
+20. Create Sign Up Screen
+
+    1. create input forms
+    2. handle submit
+    3. create backend api
+
+21. Implement Select Payment Method Screen
+
+    1. create input forms
+    2. handle submit
+
+22. Create Place Order Screen
+
+    1. show cart items, payment and address
+    2. handle place order action
+    3. create order create api
+
+23. Implement Place Order Action
+
+    1. handle place order action
+    2. create order api
+
+24. Create Order Screen
+
+    1. create backend api for order:/id
+    2. fetch order api in frontend
+    3. show order infomation in 2 columns
+
+25. Pay Order By Paypal
+    1. generate paypal client id
+    2. create api to return client id
+    3. install react-paypal-js
+    4. use paypalScriptProvider in index.js
+    5. use usePaypalScriptReducer in Order Screen
+    6. implement payloadScript function
+    7. render paypal button
+    8. implement onApprove payment function
+    9. create pay order api in backend
