@@ -1,0 +1,21 @@
+{
+  "name": "amazona1.5",
+  "version": "1.0.0",
+  "description": "1. Initial Steps:",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SexyHamilton/Amazona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SexyHamilton/Amazona/issues"
+  },
+  "homepage": "https://github.com/SexyHamilton/Amazona#readme"
+}

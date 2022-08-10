@@ -157,6 +157,7 @@
     3. show order infomation in 2 columns
 
 25. Pay Order By Paypal
+
     1. generate paypal client id
     2. create api to return client id
     3. install react-paypal-js
@@ -166,3 +167,25 @@
     7. render paypal button
     8. implement onApprove payment function
     9. create pay order api in backend
+
+26. Display Order Histoty
+
+    1. create order screen
+    2. creatr order history api
+    3. use api in the frontend
+
+27. Create Profile Screen
+
+    1. get user info from context
+    2. show user information
+    3. create user update api
+    4. update user info
+
+28. Publish To Heroku
+    1. create and config node project
+    2. serve build folder in frontend folder
+    3. create heroku account
+    4. connect it to github
+    5. create mongodb atlas database
+    6. set database connection in heroku env variables
+    7. commit and push
