@@ -182,6 +182,7 @@
     4. update user info
 
 28. Publish To Heroku
+
     1. create and config node project
     2. serve build folder in frontend folder
     3. create heroku account
@@ -189,3 +190,13 @@
     5. create mongodb atlas database
     6. set database connection in heroku env variables
     7. commit and push
+
+29. Add Sidebar and Search Box
+
+    1. add sidebar
+    2. add search box
+
+30. Create Search Screen
+    1. show filters
+    2. create api for searching products
+    3. display results
