@@ -197,6 +197,92 @@
     2. add search box
 
 30. Create Search Screen
+
     1. show filters
     2. create api for searching products
     3. display results
+
+31. Create Admin Menu
+
+    1. define protected route component
+    2. define admin route component
+    3. add menu for admin in header
+
+32. Create Dashboard Screen
+
+    1. create dashboard ui
+    2. implement backend api
+    3. connect ui to backend
+
+33. Manage Products
+
+    1. create products list ui
+    2. implement backend api
+    3. fetch data
+
+34. Create Product
+
+    1. create products button
+    2. implement backend api
+    3. handle onClick
+
+35. Edit Product
+
+    1. create edit button
+    2. create edit product ui
+    3. display product info in the input boxes
+
+36. Implement Update Product
+
+    1. create edit product backend api
+    2. handle update click
+
+37. Upload Product Image
+
+    1. create cloudianry account
+    2. use the api key in env file
+    3. handle upload file
+    4. implement backend api to upload
+
+38. Delete Product
+
+    1. show delete button
+    2. implement backend api
+    3. handle on click
+
+39. List Orders
+
+    1. create order list screen
+    2. implement backend api
+    3. fetch and display orders
+
+40. Deliver Order
+
+    1. add deliver button
+    2. handle click action
+    3. implement backend api for deliver
+
+41. Delete Order
+
+    1. add delete button
+    2. handle click action
+    3. implement backend api for delete
+
+42. List Users
+
+    1. create user list screen
+    2. implement backend api
+    3. fetch and display users
+
+43. Edit User
+
+    1. create edit button
+    2. create edit product api
+    3. display product info in the input boxes
+    4. implement backend api
+    5. handle edit click
+
+44. Delete User
+    1. add delete button
+    2. handle click action
+    3. implement kacnend api for delete
